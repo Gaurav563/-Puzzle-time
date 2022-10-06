@@ -136,5 +136,4 @@ function preload(){
         if(board[i]== -1) return i;
       }
     }
-    // git config 
-//  / //git config --global user.name ""
+   
